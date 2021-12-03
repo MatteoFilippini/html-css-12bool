@@ -158,8 +158,16 @@
 }
 
 .content-end{
-    justify-content:flex-end;
+    justify-content: flex-end;
     text-align: end;
+}
+
+.content-around{
+    justify-content: space-around;
+}
+
+.content-between{
+    justify-content: space-between;
 }
 
 /* se non mettimao niente prende STRETCH */
@@ -173,6 +181,10 @@
 
 .align-end{
     align-items: flex-end;
+}
+
+.align-around{
+    align-content: space-around;
 }
 
 /* HEIGHT */
