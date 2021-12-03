@@ -20,3 +20,11 @@
 .nested{
     padding: 20px;
 }
+
+.h-50{
+    height: 50px;
+}
+
+.row{
+    margin-bottom: 20px;
+}
