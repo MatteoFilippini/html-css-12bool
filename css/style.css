@@ -2,3 +2,9 @@
     background-color: red;
     height: 100vh;
 }
+
+.col{
+    background-color: dodgerblue;
+    border: 1px solid white;
+    line-height: 50px;
+}
