@@ -98,6 +98,10 @@
     max-width: 100%;
 }
 
+/* .row.col-6{
+    background-color: #f0f;
+} */
+
 /* OFFSET */
 .offset-0{
     margin-left: 0;
@@ -170,10 +174,10 @@
     justify-content: space-between;
 }
 
-/* se non mettimao niente prende STRETCH */
+/* se non mettiamo niente prende STRETCH */
 .align-start{
     align-items: flex-start;
-}
+}   
 
 .align-center{
     align-items: center;
@@ -184,7 +188,11 @@
 }
 
 .align-around{
-    align-content: space-around;
+    align-items: space-around;
+}
+
+.align-baseline{
+    align-items: baseline;
 }
 
 /* HEIGHT */
