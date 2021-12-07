@@ -30,6 +30,7 @@ section{
     background-color: #0f0;
     border-right: 1px solid dodgerblue;
     border-bottom: 1px solid dodgerblue;
+    height: 50px;
 }
 
 .row.nasted{
